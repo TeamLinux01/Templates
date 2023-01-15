@@ -19,5 +19,5 @@ This way you don't have to share Templates that are specific to you.
 ##### .gitignore
 
 ```
-*[Pp][Ee][Ss][Nn][Aa][Ll]*.*
+*[Pp][Ee][Rr][Ss][Oo][Nn][Aa][Ll]*.*
 ```
