@@ -1,0 +1,24 @@
+version: "3.8"
+
+networks:
+  :
+    name:
+
+services:
+  :
+    image:
+    container_name:
+    hostname:
+    environment:
+      -
+    networks:
+      -
+    cap_add:
+      -
+    ports:
+    volumes:
+      -
+    restart: unless-stopped
+
+volumes:
+  :
