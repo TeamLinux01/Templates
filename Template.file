@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=
-Comment= Template
+Name=Template Name
+Comment=Template Example
 Type=Link
-URL=
-Icon=.svg
+URL=template.file
+Icon=file.svg
