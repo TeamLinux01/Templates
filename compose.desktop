@@ -3,4 +3,4 @@ Name=compose
 Comment=Docker Compose Template
 Type=Link
 URL=compose.yml
-Icon=docker-desktop.svg
+Icon=folder-docker.svg
